@@ -1,7 +1,10 @@
-# Quarto website template
+# Optimizing Bike-Sharing Operations"
+## Insights of CitiBike in Manhattan Using Data-Driven Analysis
 
-A template repository to use as a starting point for a public website describing
-the analysis and results the course's final project. The website uses
-Quarto to generate content and GitHub Pages to host the website.
+Discover the hidden patterns and insights behind New York City’s most popular bike-sharing system.
 
-The published site for this example repository is available at: [https://musa-550-fall-2024.github.io/quarto_template/](https://musa-550-fall-2024.github.io/quarto_template/).
+Ever wondered how weather affects ridership? Which stations see the most action? Or what makes casual riders different from members? Dive into the visuals and detailed analyses to uncover the trends shaping Citi Bike in Manhattan.
+
+From top-performing stations to customer segmentation and beyond, each section offers a glimpse into the data driving smarter, more sustainable urban mobility.
+
+Ready to explore? Click through to see how Citi Bike keeps New York moving.
