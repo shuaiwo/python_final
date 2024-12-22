@@ -8,3 +8,5 @@ Ever wondered how weather affects ridership? Which stations see the most action?
 From top-performing stations to customer segmentation and beyond, each section offers a glimpse into the data driving smarter, more sustainable urban mobility.
 
 Ready to explore? Click through to see how Citi Bike keeps New York moving.
+
+Link: https://shuaiwo.github.io/python_final/ 
