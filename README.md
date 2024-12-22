@@ -1,4 +1,4 @@
-# Optimizing Bike-Sharing Operations"
+# Optimizing Bike-Sharing Operations
 ## Insights of CitiBike in Manhattan Using Data-Driven Analysis
 
 Discover the hidden patterns and insights behind New York City’s most popular bike-sharing system.
