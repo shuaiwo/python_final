@@ -1,14 +1,14 @@
 ---
-title: "MUSA 550: Final Project Template"
-subtitle: "An example website demonstrating the power of Quarto for sharing analyses on the web"
+title: "Optimizing Bike-Sharing Operations"
+subtitle: "Insights of CitiBike in Manhattan Using Data-Driven Analysis"
 ---
 
 ## Welcome!
 
-We can create beautiful websites that describe complex technical analyses in Python using Quarto and deploy them online using GitHub Pages. This combination of tools is a really powerful way to create and share your work. This website is a demo that is meant to be used to create your own Quarto website for the final project in MUSA 550.
+Discover the hidden patterns and insights behind New York City’s most popular bike-sharing system.
 
-Quarto is a relatively new tool, but is becoming popular quickly. It’s a successor to the Rmarkdown ecosystem that combines functionality into a single tool and also extends its computation power to other languages. Most importantly for us, Quarto supports executing Python code, allowing us to convert Jupyter notebooks to HTML and share them online.
+Ever wondered how weather affects ridership? Which stations see the most action? Or what makes casual riders different from members? Dive into the visuals and detailed analyses to uncover the trends shaping Citi Bike in Manhattan.
 
-::: {.callout-important}
-This template site, including the layout it uses, is just a suggested place to start! For your final project, you’re welcome (and encouraged) to make as many changes as you like to best fit your project.
-:::
+From top-performing stations to customer segmentation and beyond, each section offers a glimpse into the data driving smarter, more sustainable urban mobility.
+
+Ready to explore? Click through to see how Citi Bike keeps New York moving.

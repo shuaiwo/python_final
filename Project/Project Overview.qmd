@@ -1,0 +1,28 @@
+# Project Overview
+
+## Background
+
+Citi Bike is New York City's largest bike-sharing system, offering residents and tourists an affordable, sustainable, and efficient transportation alternative. Since its launch in 2013, Citi Bike has grown significantly, with thousands of bikes and hundreds of docking stations across Manhattan, Brooklyn, Queens, and other boroughs. As the demand for bike-sharing services continues to rise, there is a pressing need to analyze usage patterns, revenue generation, and network accessibility to enhance operational efficiency and user experience.
+
+This project leverages trip data from Citi Bike for July 2024, focusing specifically on Manhattan. Manhattan serves as a critical area of analysis due to its high population density, diverse user base, and complex transportation dynamics. By analyzing trip data and integrating it with geospatial network information, this project aims to uncover key insights into ridership behavior, evaluate station accessibility, and identify opportunities to optimize the system's operations and revenue.
+
+## Motivation
+
+The motivation behind this project stems from several key factors:
+
+- Sustainability and Urban Mobility: Citi Bike plays a vital role in promoting sustainable transportation in one of the world's busiest cities. Understanding usage patterns and station accessibility can help policymakers and planners expand the bike network effectively, reducing car dependency and lowering carbon emissions.
+
+- Data-Driven Optimization: Citi Bike's operations involve complex logistical challenges, including balancing bike distribution across stations, maintaining infrastructure, and optimizing pricing models. This project uses data-driven methods to evaluate station coverage, ridership trends, and revenue streams, providing actionable recommendations for operational improvement.
+
+- Improving User Experience: By analyzing trip durations, weather impacts, and station-level trends, the project aims to identify factors influencing user satisfaction. Insights into peak usage times, station demand, and accessibility gaps can help enhance user convenience and attract more riders.
+
+
+
+## Goals and Objectives
+- Ridership Analysis: Analyze daily and hourly trends in Citi Bike trips to identify peak times and seasonal usage patterns.
+
+- Station Accessibility: Evaluate station coverage by integrating trip data with Manhattan's bike network, calculating metrics like nearest nodes and coverage buffers.
+
+- Revenue Assessment: Calculate revenue based on Citi Bike's pricing structure, identifying top-performing stations and ride types that contribute to financial success.
+
+- Impact of Weather: Investigate the relationship between weather conditions (e.g., temperature and precipitation) and ridership behavior.

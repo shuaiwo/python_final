@@ -1,11 +1,7 @@
-# Analysis 
+# Project
 
-This section includes examples of technical analysis done using Jupyter notebooks.
-Each sub-section highlights different types of analyses and visualizations.
-In particular, it highlights that we can easily publish interactive visualizations
-produced with packages such as hvPlot, altair, or Folium, without losing
-any of the interactive features. 
+## High Level Summary
 
-On this page, you might want to share more introductory or background information about 
-the analyses to help guide the reader. 
+This report provides a comprehensive analysis of Citi Bike operations in Manhattan during July 2024, uncovering key insights into ridership behavior, revenue generation, and station performance. The study highlights the system's reliance on weekday commuter demand, its sensitivity to weather conditions, and its strong integration with Manhattan’s bike lane network.
 
+The findings emphasize opportunities for targeted interventions, such as expanding infrastructure in high-demand areas, improving underperforming stations, and incentivizing casual users to convert to memberships. These recommendations aim to optimize operations, enhance user satisfaction, and reinforce Citi Bike’s role as a sustainable urban mobility solution in New York City.
